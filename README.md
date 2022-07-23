@@ -1,4 +1,4 @@
-# 100daysofcode
+# 100 days of coding
 
 <h3>☀Ming's 100 days of coding challenge -- web development</h3>
 <h4>💧Background:</h4>Python, D3.js
