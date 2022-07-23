@@ -20,4 +20,5 @@ live coding tool(https://codepen.io/)<br>
 Documentation: MDN docs; w3 schools*;DevDocs(https://devdocs.io)<br>
 Wayback Machine: web.archive.org<br>
 Emmet shortcuts: https://docs.emmet.io/cheat-sheet/<br>
+Atom beautify shortcut: control+option+b<br>
 Mojibake/garbled text: Wrong character encoding https://unicode-table.com/en/ (including emojis!); Some extra reading (https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
