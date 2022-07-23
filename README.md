@@ -26,4 +26,5 @@
 <li>Tom beautify shortcut: control+option+b</li>
 <li>Mojibake/garbled text: Wrong <a href="https://unicode-table.com/en/">character encoding(including emojis!)</a>; <a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/">Some extra reading</a></li>
 <li><a href="https://crop-circle.imageonline.co/">Crop image online</a></li>
+<li><a href="https://www.befunky.com/create/resize-image/">Resize image tool</a></li>
 </ul>
