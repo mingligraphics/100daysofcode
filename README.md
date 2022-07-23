@@ -1,14 +1,14 @@
 # 100daysofcode
 
-<h3>🌟Ming's 100 days of coding challenge -- web development</h3>
-<h6>Background: Python, D3.js</h6>
-<h6>Goal: Systematically understand web development(HTML, CSS and JavaScript)</h6>
-<h6>Materials:
+<h3>☀Ming's 100 days of coding challenge -- web development</h3>
+<h4>💧Background:</h4>Python, D3.js
+<h4>💧Goal:</h4>Systematically understand web development(HTML, CSS and JavaScript)
+<h4>💧Materials:</h4>
 Angela Yu web development bootcamp<br>
 O’Reilly -- Interactive Data Visualization for the Web<br>
 Amelia Wattenberger's D3 course<br>
 Shirley Wu's D3 course<br>
-Other refereneces -- Learning data viz with D3</h6>
+Other refereneces -- Learning data viz with D3
 
 <h4>✨1/100 Angela Yu’s Web Development Section 1 -- 07222022</h4>
 html: structure<br>
