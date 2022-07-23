@@ -15,7 +15,7 @@
 <li>html: structure</li>
 <li>css: style</li>
 <li>java script: functionality</li>
-<li>Don't just copy while learning (which is something I used to do A LOT)，try to understand the codes and write them on your own</li>
+<li>Don't just copy while learning (which is something I used to do A LOT);try to understand the codes and write them on your own</li>
  </ul>
 <h4>✨2/100✨ Angela Yu’s Web Development Section 2 -- 07232022</h4>
 <ul>
