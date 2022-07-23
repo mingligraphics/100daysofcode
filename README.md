@@ -10,14 +10,14 @@
 <li>Other refereneces -- Learning data viz with D3</li>
 </ol>
 
-<h4>✨1/100 Angela Yu’s Web Development Section 1 -- 07222022</h4>
+<h4>✨1/100✨ Angela Yu’s Web Development Section 1 -- 07222022</h4>
 <ul>
 <li>html: structure</li>
 <li>css: style</li>
 <li>java script: functionality</li>
 <li>不要一边学一边照抄老师的代码 (which is something I used to do A LOT)，而是理解这段代码的用途，然后再试着自己写。</li>
  </ul>
-<h4>✨2/100 Angela Yu’s Web Development Section 2 -- 07232022</h4>
+<h4>✨2/100✨ Angela Yu’s Web Development Section 2 -- 07232022</h4>
 <ul>
 <li>live coding tool(https://codepen.io/)</li>
 <li>Documentation: MDN docs; w3 schools*;DevDocs(https://devdocs.io)</li>
