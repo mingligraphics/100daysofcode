@@ -25,4 +25,5 @@
 <li>Emmet shortcuts: https://docs.emmet.io/cheat-sheet/</li>
 <li>tom beautify shortcut: control+option+b</li>
 <li>Mojibake/garbled text: Wrong character encoding https://unicode-table.com/en/ (including emojis!); Some extra reading (https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)</li>
+<li>Crop image online: https://crop-circle.imageonline.co/</li>
 </ul>
