@@ -15,7 +15,7 @@
 <li>html: structure</li>
 <li>css: style</li>
 <li>java script: functionality</li>
-<li>不要一边学一边照抄老师的代码 (which is something I used to do A LOT)，而是理解这段代码的用途，然后再试着自己写。</li>
+<li>Don't just copy while learning (which is something I used to do A LOT)，try to understand the codes and write them on your own</li>
  </ul>
 <h4>✨2/100✨ Angela Yu’s Web Development Section 2 -- 07232022</h4>
 <ul>
