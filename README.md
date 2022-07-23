@@ -1,6 +1,6 @@
 <h3>Ming's 100 days of coding challenge -- web development</h3>
 <h4>💧Background:</h4>Python, D3.js
-<h4>💧Goal:</h4>Systematically understand web development(HTML, CSS and JavaScript)
+<h4>💧Goal:</h4>Systematically understand web development (HTML, CSS and JavaScript)
 <h4>💧Materials:</h4>
 <ol>
 <li>Angela Yu's <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">web development bootcamp</a></li>
