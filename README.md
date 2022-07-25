@@ -32,4 +32,9 @@
 <ul>
 <li>How to type emojis: Command + Control + Space</li>
 <li>Learned how to make gmail the default email client.</li>
- </ul>
+</ul>
+<h4>✨4/100✨ Angela Yu’s Web Development Section 3&4 (28-27) -- 07252022</h4>
+<ul>
+<li>Pubbing websites in github (settings-->pages)</li>
+<li><a href="https://colorhunt.co/">CSS colors reference</a></li>
+</ul>
