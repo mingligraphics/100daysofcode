@@ -37,4 +37,5 @@
 <ul>
 <li>Pubbing websites in github (settings-->pages)</li>
 <li><a href="https://colorhunt.co/">CSS colors reference</a></li>
+ <li><a href="[https://colorhunt.co/](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)">CSS colors table</a></li>
 </ul>
