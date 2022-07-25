@@ -28,7 +28,7 @@
 <li><a href="https://crop-circle.imageonline.co/">Crop image online</a></li>
 <li><a href="https://www.befunky.com/create/resize-image/">Resize image tool</a></li>
 </ul>
-<h4>✨3/100✨ Angela Yu’s Web Development Section 1 -- 07242022</h4>
+<h4>✨3/100✨ Angela Yu’s Web Development Section 3 (21-27) -- 07242022</h4>
 <ul>
 <li>How to type emojis: Command + Control + Space</li>
 <li>Learned how to make gmail the default email client.</li>
