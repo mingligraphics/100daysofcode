@@ -31,5 +31,5 @@
 <h4>✨3/100✨ Angela Yu’s Web Development Section 1 -- 07242022</h4>
 <ul>
 <li>How to type emojis: Command + Control + Space</li>
-<li></li>
+<li>Learned how to make gmail the default email client.</li>
  </ul>
