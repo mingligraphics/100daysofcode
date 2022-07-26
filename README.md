@@ -39,4 +39,5 @@
 <li><a href="https://colorhunt.co/">CSS colors reference</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">CSS colors table</a></li>
 <li>Pretty much everything on the web page are boxes -- CSS can change properties of the boxes</li>
+<li><a href="https://www.w3schools.com/cssref/css_default_values.asp">Default CSS values</a></li> 
 </ul>
