@@ -41,3 +41,14 @@
 <li>Pretty much everything on the web page are boxes -- CSS can change properties of the boxes -- Pesticide for Chrome</li>
 <li><a href="https://www.w3schools.com/cssref/css_default_values.asp">Default CSS values</a></li> 
 </ul>
+<h4>✨5/100✨ Angela Yu’s Web Development Section 4 (34-37) -- 07262022</h4>
+<ul>
+<li>href starts with " / " meaning it starts with root</li>
+<li>Debugging → go to “developer tool” in chrome</li>
+<li>CSS Priorities: inline > internal > external</li>
+<li>CSS: selector {property: value;}</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a></li> 
+<li><a href="https://emojipedia.org/">Emojipedia</a></li> 
+<li>Commenting out in css: / **/</li>
+</ul>
+
