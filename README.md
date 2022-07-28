@@ -4,6 +4,7 @@
 <h4>💧Materials:</h4>
 <ol>
 <li>Angela Yu's <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">web development bootcamp</a></li>
+<li>TOP<a href="https://www.theodinproject.com/"></a></li>
 <li>O’Reilly -- <a href="https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1449339735">Interactive Data Visualization for the Web</a></li>
 <li>Amelia Wattenberger's <a href="https://www.newline.co/fullstack-d3">D3 course</a></li>
 <li>Shirley Wu's <a href="https://frontendmasters.com/teachers/shirley-wu/">D3 course</a></li>
