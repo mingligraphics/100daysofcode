@@ -51,4 +51,17 @@
 <li><a href="https://emojipedia.org/">Emojipedia</a></li> 
 <li>Commenting out in css: / **/</li>
 </ul>
+<h4>✨6/100✨ Angela Yu’s Web Development Section 4&5 (38-44) -- 07272022</h4>
+<ul>
+<li>Selectors: class and id override tag.</li>
+<li>An element can have multiple classes, but can only has one id. Multiple elements can share a class, but id should be unique on a webpage.</li>
+<li>Pseudo class: a keyword added to a selector that specifies a special state of the selected element(s).</li>
+<li><a href="https://www.favicon.cc/">favicon: favorite icon</a></li> 
+<li>Box model: margin–border–width/height–padding</li> 
+</ul>
+
+
+
+
+ 
 
