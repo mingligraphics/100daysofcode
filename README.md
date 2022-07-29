@@ -60,6 +60,16 @@
 <li><a href="https://www.favicon.cc/">favicon: favorite icon</a></li> 
 <li>Box model: margin–border–width/height–padding</li> 
 </ul>
+<h4>✨7/100✨ Angela Yu’s Web Development Section 4&5 (45-49) -- 07282022</h4>
+<ul>
+<li>Default display types: block (h1, div, p…); inline(span,a );inline-block(img); none (as if never existed, different from visibility hidden, which still takes up space)</li>
+<li>Position: static (default); relative (relative to when it is static)(coordinates: top, bottom, left, right); absolute (relative to its parent); fixed (useful for nav-bar)</li>
+<li>How to center things: text-align (center elements that don’t have widths); if have widths, use auto to set for margin.</li>
+</ul>
+
+
+
+
 
 
 
