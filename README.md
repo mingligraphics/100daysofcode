@@ -76,13 +76,13 @@
 <li><a href="https://giphy.com/">image source gif</a></li> 
 <li>Set Dynamic font-size, use % or em or rem (100%=16px=1em)(rem ignores all parent settings)</li> 
 </ul>
-<h4>✨9/100✨ Angela Yu’s Web Development Section 5&6 (61-66) -- 07302022</h4>
+<h4>✨9/100✨ Angela Yu’s Web Development Section 5 (54-60) -- 07302022</h4>
 <ul>
 <li>Atom-preferences-editor-show indent guide</li>
 <li>Clear ---> anti-Float</li>
 <li><a href="https://css3buttongenerator.com/">Button generator</a></li> 
 </ul>
-<h4>✨10/100✨ Angela Yu’s Web Development Section 5 (50-53) -- 07302022</h4>
+<h4>✨10/100✨ Angela Yu’s Web Development Section 5&6 (61-66) -- 07312022</h4>
 <ul>
 <li><a href="https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3">Optional front-end challenges</a></li> 
 <li><a href="https://getbootstrap.com/">Bootstrap: front-end library designed by twitter</a></li> 
