@@ -67,6 +67,25 @@
 <li>How to center things: text-align (center elements that don’t have widths); if have widths, use auto to set for margin.</li>
  <li>"An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling. Note: A "positioned" element is one whose position is anything except static."</li>
 </ul>
+<h4>✨8/100✨ Angela Yu’s Web Development Section 5 (50-53) -- 07292022</h4>
+<ul>
+<li><a href="https://fonts.google.com/">Font embedding</a></li> 
+<li><a href="https://loremipsum.io/">Dumy text lorem ipsum</a></li> 
+<li><a href="https://www.cssfontstack.com/">Web safe fonts and Fallback fonts choices</a></li> 
+<li><a href="https://www.flaticon.com/">image source static</a></li> 
+<li><a href="https://giphy.com/">image source gif</a></li> 
+<li>Set Dynamic font-size, use % or em or rem (100%=16px=1em)(rem ignores all parent settings)</li> 
+</ul>
+<h4>✨9/100✨ Angela Yu’s Web Development Section 5 (54-60) -- 07302022</h4>
+<ul>
+<li>Atom-preferences-editor-show indent guide</li>
+<li>Clear ---> anti-Float</li>
+<li><a href="https://css3buttongenerator.com/">Button generator</a></li> 
+</ul>
+
+
+
+
 
 
 
