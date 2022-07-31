@@ -76,12 +76,29 @@
 <li><a href="https://giphy.com/">image source gif</a></li> 
 <li>Set Dynamic font-size, use % or em or rem (100%=16px=1em)(rem ignores all parent settings)</li> 
 </ul>
-<h4>✨9/100✨ Angela Yu’s Web Development Section 5 (54-60) -- 07302022</h4>
+<h4>✨9/100✨ Angela Yu’s Web Development Section 5&6 (61-66) -- 07302022</h4>
 <ul>
 <li>Atom-preferences-editor-show indent guide</li>
 <li>Clear ---> anti-Float</li>
 <li><a href="https://css3buttongenerator.com/">Button generator</a></li> 
 </ul>
+<h4>✨10/100✨ Angela Yu’s Web Development Section 5 (50-53) -- 07302022</h4>
+<ul>
+<li><a href="https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3">Optional front-end challenges</a></li> 
+<li><a href="https://getbootstrap.com/">Bootstrap: front-end library designed by twitter</a></li> 
+<li><a href="https://www.codeply.com/">Codeply: allows including frameworks, which is different from code pen</a></li> 
+<li>CDN: content delivery network (a bunch of routing points for a website)</li>
+<li>Commenting out: cmd+/</li> 
+<li>Wireframe: the skeletal framework of a website, should be very simple.</li> 
+<li><a href="https://sneakpeekit.com/">Wireframing tools simple - Sneakpeekit</a></li>
+<li><a href="https://balsamiq.cloud/">Wireframing tools sophisticated - Balsamiq</a></li> 
+<li>A mock-up: a high fidelity of your website's design</li> 
+<li><a href="https://dribbble.com/">Design inspirations - dribble</a></li> 
+<li><a href="https://ui-patterns.com/patterns">See how others solve web design problems - UI patterns</a></li> 
+<li><a href="https://getbootstrap.com/docs/5.2/components/navbar/#toggler">Navbar - Toggler</a></li> 
+</ul>
+
+
 
 
 
