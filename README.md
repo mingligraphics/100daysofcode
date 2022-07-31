@@ -1,4 +1,4 @@
-<h3>Ming's 100 days of coding challenge -- web development</h3>
+<h3>Ming's 100 days of code challenge -- web development</h3>
 <h4>💧Background:</h4>Python, D3.js
 <h4>💧Goal:</h4>Systematically understand web development (HTML, CSS and JavaScript)
 <h4>💧Materials:</h4>
