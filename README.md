@@ -97,8 +97,14 @@
 <li><a href="https://ui-patterns.com/patterns">See how others solve web design problems - UI patterns</a></li> 
 <li><a href="https://getbootstrap.com/docs/5.2/components/navbar/#toggler">Navbar - Toggler</a></li> 
 </ul>
-
-
+<h4>✨11/100✨ Angela Yu’s Web Development Section  6 (67-75) -- 08012022</h4>
+<ul>
+<li>Major benefit of using bootstrap: make it easy to create responsive websites (meaning responds to the size of screen).</li> 
+<li>Bootstrap grid: 12 template columns available per row.</li> 
+<li>CSS styles are applied in the order they are linked in your HTML code -- the one that's visible at the end is the one applied last.</li> 
+<li>Unlike CSS and JavaScript, HTML code is executed from top to bottom so the order of your code matters.</li>
+<li><a href="https://fontawesome.com/">Icon library and toolkit</a></li> 
+</ul>
 
 
 
