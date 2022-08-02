@@ -105,6 +105,10 @@
 <li>Unlike CSS and JavaScript, HTML code is executed from top to bottom so the order of your code matters.</li>
 <li><a href="https://fontawesome.com/">Icon library and toolkit: fontawesome</a></li> 
 </ul>
+<h4>✨12/100✨ Angela Yu’s Web Development Section 6 (76-79) -- 08022022</h4>
+<ul>
+<li>Rotate – transform: rotate(45deg)</li> 
+</ul>
 
 
 
