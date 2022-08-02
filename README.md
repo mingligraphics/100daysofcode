@@ -103,7 +103,7 @@
 <li>Bootstrap grid: 12 template columns available per row.</li> 
 <li>CSS styles are applied in the order they are linked in your HTML code -- the one that's visible at the end is the one applied last.</li> 
 <li>Unlike CSS and JavaScript, HTML code is executed from top to bottom so the order of your code matters.</li>
-<li><a href="https://fontawesome.com/">Icon library and toolkit</a></li> 
+<li><a href="https://fontawesome.com/">Icon library and toolkit: fontawesome</a></li> 
 </ul>
 
 
