@@ -109,6 +109,16 @@
 <ul>
 <li>Rotate – transform: rotate(45deg)</li> 
 </ul>
+<h4>✨13/100✨ Angela Yu’s Web Development Section 7 (80-83) -- 08022022</h4>
+<ul>
+<li>How to make images round: border radius 100%</li>
+ <li>Bootstrap carousel: A slideshow component for cycling through elements—images or slides of text—like a carousel.</li> 
+<li>Aria-hidden: skip for readers with visual disabilities</li> 
+<li>Layer principle: children sit on top of their parents.</li>
+<li><a href="https://bootsnipp.com/">We can directly copy paste element from bootstrap example section, also can go to bootsnipp:</a></li> 
+<li>Layer principle: children sit on top of their parents.</li> 
+<li>CSS-Z-Index: used to change the stacking order of elements; only works when elements are positioned; default is 0.</li>
+</ul>
 
 
 
