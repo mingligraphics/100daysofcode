@@ -63,7 +63,7 @@
 <h4>✨7/100✨ Angela Yu’s Web Development Section 4&5 (45-49) -- 07282022</h4>
 <ul>
 <li>Default display types: block (h1, div, p…); inline(span,a );inline-block(img); none (as if never existed, different from visibility hidden, which still takes up space)</li>
-<li>Position: static (default); relative (relative to when it is static)(coordinates: top, bottom, left, right); absolute (relative to its parent); fixed (useful for nav-bar)</li>
+<li>Position: static (default); relative (relative to when it is static)(coordinates: top, bottom, left, right); absolute (relative to its parent, take the elements out of the html flow); fixed (useful for nav-bar)</li>
 <li>How to center things: text-align (center elements that don’t have widths); if have widths, use auto to set for margin.</li>
  <li>"An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling. Note: A "positioned" element is one whose position is anything except static."</li>
 </ul>
