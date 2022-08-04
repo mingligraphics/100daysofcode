@@ -109,7 +109,7 @@
 <ul>
 <li>Rotate – transform: rotate(45deg)</li> 
 </ul>
-<h4>✨13/100✨ Angela Yu’s Web Development Section 7 (80-83) -- 08022022</h4>
+<h4>✨13/100✨ Angela Yu’s Web Development Section 7 (80-83) -- 08032022</h4>
 <ul>
 <li>How to make images round: border radius 100%</li>
  <li>Bootstrap carousel: A slideshow component for cycling through elements—images or slides of text—like a carousel.</li> 
@@ -119,8 +119,15 @@
 <li>Layer principle: children sit on top of their parents.</li> 
 <li>CSS-Z-Index: used to change the stacking order of elements; only works when elements are positioned; default is 0.</li>
 </ul>
-
-
+<h4>✨14/100✨ Angela Yu’s Web Development Section 7 (84-88) -- 08042022</h4>
+<ul>
+<li>To see width being displayed, go to chrome developer tool.</li>
+ <li>Use id (#) for same-page navigation</li> 
+<li>Code refactoring: Readability, Modularity (how easy to reuse), Efficiency, Length</li> 
+<li>Don't repeat yourself</li>
+<li><a href="https://search.google.com/test/mobile-friendly">Google rankings are affected by whether your website is mobile friendly</a></li> 
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">Using media queries</a></li> 
+</ul>
 
 
 
