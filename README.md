@@ -128,6 +128,26 @@
 <li><a href="https://search.google.com/test/mobile-friendly">Google rankings are affected by whether your website is mobile friendly</a></li> 
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">Using media queries</a></li> 
 </ul>
+<h4>✨15/100✨ Angela Yu’s Web Development Section 7 (89) -- 08052022</h4>
+<ul>
+<li>Hierarchical Selectors: selector1 selector2 { }</li>
+<li>Combined Selectors: selector1selector2 { }</li> 
+</ul>
+<h4>✨16/100✨ Angela Yu’s Web Development Section 7&8 (90-100) -- 08042022</h4>
+<ul>
+<li>Use IDs sparingly</li>
+<li>CSS selector hierarchy: Inline styles > IDs > Classes, pseudo-classes, attribute selectors > Elements and pseudo-elements</li> 
+<li>Avoid inline styles at all cost</li> 
+<li>Don't repeat yourself</li>
+<li>Typography (Serifs comes from words carved into stone; San-Serifs are simpler and more contemporary</li>
+<li>40 to 60 characters per line</li>
+<li>dark patterns (trick users to do an action that they don't really want)</li>
+<li><a href="https://color.adobe.com/create/color-wheel">Adobe color</a></li> 
+<li><a href="https://www.dailyui.co/">Daily UI challenge</a></li> 
+<li><a href="https://www.canva.com/">Canva design</a></li> 
+</ul>
+
+
 
 
 
