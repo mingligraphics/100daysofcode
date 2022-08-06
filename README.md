@@ -37,7 +37,7 @@
 <h4>✨4/100✨ Angela Yu’s Web Development Section 3&4 (28-33) -- 07252022</h4>
 <ul>
 <li>Pubbing websites in github (settings-->pages)</li>
-<li><a href="https://colorhunt.co/">CSS colors reference</a></li>
+<li><a href="https://colorhunt.co/">CSS colors reference: color hunt</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">CSS colors table</a></li>
 <li>Pretty much everything on the web page are boxes -- CSS can change properties of the boxes -- Pesticide for Chrome</li>
 <li><a href="https://www.w3schools.com/cssref/css_default_values.asp">Default CSS values</a></li> 
