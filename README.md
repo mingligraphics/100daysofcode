@@ -133,7 +133,7 @@
 <li>Hierarchical Selectors: selector1 selector2 { }</li>
 <li>Combined Selectors: selector1selector2 { }</li> 
 </ul>
-<h4>✨16/100✨ Angela Yu’s Web Development Section 7&8 (90-100) -- 08042022</h4>
+<h4>✨16/100✨ Angela Yu’s Web Development Section 7&8 (90-100) -- 08062022</h4>
 <ul>
 <li>Use IDs sparingly</li>
 <li>CSS selector hierarchy: Inline styles > IDs > Classes, pseudo-classes, attribute selectors > Elements and pseudo-elements</li> 
@@ -146,7 +146,17 @@
 <li><a href="https://www.dailyui.co/">Daily UI challenge</a></li> 
 <li><a href="https://www.canva.com/">Canva design</a></li> 
 </ul>
-
+<h4>✨17/100✨ Angela Yu’s Web Development Section 9 (101-107) -- 08072022</h4>
+<ul>
+<li><a href="https://redmonk.com/sogrady/2022/03/28/language-rankings-1-22/">RedMonk Programming Language Rankings</a></li> 
+<li><a href="https://www.canva.com/">Canva design</a></li> 
+<li>Java vs. JavaScript = Car vs. carpet</li>
+<li>Chrome --> View --> Developer --> JavaScript Console (Holding down shift and hit enter allow you to go to the next line) (Also can go to sources --> Snippets --> New Snippet)</li> 
+<li>To clear console: Cmd + K ; to clear all data in console: hard reload</li> 
+<li>A variable name can only contains letters, numbers, $,  _ and it can't begin with a number</li>
+<li>Camel casing: first word not capitalized and every subsequent one is.</li>
+<li><a href="https://github.com/rwaldron/idiomatic.js/">Principles of writing consistent, idiomatic JavaScript</a></li> 
+</ul>
 
 
 
