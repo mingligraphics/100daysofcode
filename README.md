@@ -157,7 +157,19 @@
 <li>Camel casing: first word not capitalized and every subsequent one is.</li>
 <li><a href="https://github.com/rwaldron/idiomatic.js/">Principles of writing consistent, idiomatic JavaScript</a></li> 
 </ul>
-
+<h4>✨18/100✨ Angela Yu’s Web Development Section 9 (108-110) -- 08082022</h4>
+<ul>
+<li>Single-line comment: //</li>
+<li>Multiple-line comment: /*</li>
+<li>JavaScript user input: prompt( ); user alert: alert( );</li> 
+</ul>
+<h4>✨19/100✨ Angela Yu’s Web Development Section 9 (111-114) -- 08092022</h4>
+<ul>
+<li>modulo: e.g. 6%4 = 2</li> 
+<li>x = x + 1 equals x ++</li> 
+<li>C++ got its name bc it means better than C —> C+1</li>
+<li>In programming, there are two types of increment and decrement operator: 1. Post Increment (x++) 2. Pre Increment(++x). When we write y = x++ the value of original x gets assigned to y, when we write y = ++x the value of x will get incremented first.</li> 
+</ul>
 
 
 
