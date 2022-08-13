@@ -170,7 +170,18 @@
 <li>C++ got its name bc it means better than C —> C+1</li>
 <li>In programming, there are two types of increment and decrement operator: 1. Post Increment (x++) 2. Pre Increment(++x). When we write y = x++ the value of original x gets assigned to y, when we write y = ++x the value of x will get incremented first.</li> 
 </ul>
-
+<h4>✨20/100✨ Angela Yu’s Web Development Section 9 (115-118) -- 08102022</h4>
+<ul>
+<li><a href="https://stanford.edu/~cpiech/karel/ide.html">Karel the robot</a></li> 
+</ul>
+<h4>✨21/100✨ Angela Yu’s Web Development Section 9 (119-120) -- 08112022</h4>
+<ul>
+<li>How to round down javascript numbers: Math.floor();</li> 
+</ul>
+<h4>✨22/100✨ Angela Yu’s Web Development Section 9 (121-124) -- 08122022</h4>
+<ul>
+<li>raise a number to power in javascript: aa = Math.pow(a, 2)</li> 
+</ul>
 
 
 
