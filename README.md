@@ -8,6 +8,7 @@
 <li>O’Reilly -- <a href="https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1449339735">Interactive Data Visualization for the Web</a></li>
 <li>Amelia Wattenberger's <a href="https://www.newline.co/fullstack-d3">D3 course</a></li>
 <li>Shirley Wu's <a href="https://frontendmasters.com/teachers/shirley-wu/">D3 course</a></li>
+<li>Peter Cook's <a href="https://www.d3indepth.com/">D3 in Depth</a></li>
 <li>Other refereneces -- <a href="https://medium.com/@didoesdigital/learning-data-viz-with-d3-8b54afcef74">Learning data viz with D3</a></li>
 </ol>
 
