@@ -9,6 +9,7 @@
 <li>Amelia Wattenberger's <a href="https://www.newline.co/fullstack-d3">D3 course</a></li>
 <li>Shirley Wu's <a href="https://frontendmasters.com/teachers/shirley-wu/">D3 course</a></li>
 <li>Peter Cook's <a href="https://www.d3indepth.com/">D3 in Depth</a></li>
+<li>Three.js Journey <a href="https://threejs-journey.com/?c=g1&gclid=Cj0KCQjwxveXBhDDARIsAI0Q0x3mSrJ9qRYNJ0XDhv1ja7hhMLyYN69W1b8lGQEBDuNjCqq0SOgvSDwaAvmCEALw_wcB">three.js</a></li>
 <li>Other refereneces -- <a href="https://medium.com/@didoesdigital/learning-data-viz-with-d3-8b54afcef74">Learning data viz with D3</a></li>
 </ol>
 
