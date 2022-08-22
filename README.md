@@ -184,6 +184,87 @@
 <ul>
 <li>raise a number to power in javascript: aa = Math.pow(a, 2)</li> 
 </ul>
+<h4>✨23/100✨ Angela Yu’s Web Development Section 9 (125-128) -- 08132022</h4>
+<ul>
+<li>Random number generator: 0 <= Math.random() < 1</li> 
+<li>=== vs ==, the former not only checks for equality, but also checks for data types</li> 
+<li>&& AND, || OR, ! NOT</li> 
+</ul>
+<h4>✨25/100✨ Angela Yu’s Web Development Section 9 (133-134) -- 08152022</h4>
+<ul>
+<li>Apple Campus – One infinite loop</li>
+<li>infinite loop – code crashes</li> 
+</ul>
+<h4>✨26/100✨ Angela Yu’s Web Development Section 9 (135-139) -- 08162022</h4>
+<ul>
+<li>for loop – syntactic sugar – trying to iterate</li>
+<li>while loop – while (something is true){ }; – checking the state</li> 
+</ul>
+<h4>✨27/100✨ Angela Yu’s Web Development Section 11 (140-144) -- 08172022</h4>
+<ul>
+<li>Adding javascript to webpage – where to add script tag matters – we tend to put css inside the head element, while put script right at the end (after elements were created)</li> 
+<li>Document Object Model – DOM – manipulate individual elements</li> 
+<li>C++ got its name bc it means better than C —> C+1</li>
+<li>document.querySelector(".class" or “#id” or “tagname” or combined); document.querySelectorAll( ); document.getElementById( ); </li>
+<li>document.getElementsByTagName( ); document.getElementsByClassName( ); The last two always return an array</li> 
+<li>Objects have properties (innerHTML, style, firstChild) and methods (click( ), appendChild( ), setAttribute( ))</li> 
+<li><a href="https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg">HTML tree generator</a></li> 
+<li><a href="https://www.w3schools.com/jsref/dom_obj_style.asp">Change in javascript instead of css – always use a string – HTML DOM style object</a></li> 
+</ul>
+<h4>✨28/100✨ Angela Yu’s Web Development Section 11 (145-148) & Section 12 -- 08182022</h4>
+<ul>
+<li><a href="https://www.w3schools.com/howto/howto_js_toggle_class.asp">Add a new class – document.querySelector(“class name”).classList.toggle(“a new class name”); </a></li> 
+<li>Manipulate text – document.querySelector(“class name”).textContent;-- different from document.querySelector(“class name”).innerHTML;</li> 
+<li>Manipulate HTML element attributes – e.g. document.querySelector(“a”).getAttribute(“href”);</li> 
+<li>document.querySelector(“a”).setAttribute(“href”," ");</li>
+</ul>
+<h4>✨29/100✨ Angela Yu’s Web Development Section 12 (160 - 162) -- 08192022</h4>
+<ul>
+<li>addEventListener(type, listener);</li>
+<li>function without ( ) – passing a function as an input so that it can be called at a later time</li>
+<li>anonymous function – function without a name</li> 
+</ul>
+<h4>✨30/100✨ Angela Yu’s Web Development Section 12 (163 - 165) -- 08202022</h4>
+<ul>
+<li>Chrome developer tool: enter “debugger” (shift+enter), and enter the function you want to debug —> click the arrow button to step to the next function call</li>
+<li>Higher order functions: functions that can take other functions as inputs</li>
+<li>new Audio([URLString]);</li> 
+</ul>
+<h4>✨31/100✨ Angela Yu’s Web Development Section 12 (166-174) -- 08172022</h4>
+<ul>
+<li>Javascript object: var randomVariable = { name1: values, name2: values}</li> 
+<li>switch (expression) {
+case expression:
+break;
+default: }</li> 
+<li>Constructor function: function RandomVariable(name1, name2){this.name1 = name1; this.name2 = name2}</li>
+<li>Initialize object: var randomVariable1 = new RandomVariable(name1, name2);</li>
+<li>In a constructor function, the first word of the variable is also capitalized.</li> 
+<li>Method – a function associated with an object</li>
+<li>Event listeners: type of event -- are all lower cases</li> 
+<li>SetTimeout(function, milliseconds, param1, param2,…)</li> 
+<li>Any function that is passed as an argument is called a <a href="https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced">callback function</a></li> 
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
