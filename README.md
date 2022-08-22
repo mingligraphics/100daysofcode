@@ -218,19 +218,19 @@
 <li>Manipulate HTML element attributes – e.g. document.querySelector(“a”).getAttribute(“href”);</li> 
 <li>document.querySelector(“a”).setAttribute(“href”," ");</li>
 </ul>
-<h4>✨29/100✨ Angela Yu’s Web Development Section 12 (160 - 162) -- 08192022</h4>
+<h4>✨29/100✨ Angela Yu’s Web Development Section 13 (160 - 162) -- 08192022</h4>
 <ul>
 <li>addEventListener(type, listener);</li>
 <li>function without ( ) – passing a function as an input so that it can be called at a later time</li>
 <li>anonymous function – function without a name</li> 
 </ul>
-<h4>✨30/100✨ Angela Yu’s Web Development Section 12 (163 - 165) -- 08202022</h4>
+<h4>✨30/100✨ Angela Yu’s Web Development Section 13 (163 - 165) -- 08202022</h4>
 <ul>
 <li>Chrome developer tool: enter “debugger” (shift+enter), and enter the function you want to debug —> click the arrow button to step to the next function call</li>
 <li>Higher order functions: functions that can take other functions as inputs</li>
 <li>new Audio([URLString]);</li> 
 </ul>
-<h4>✨31/100✨ Angela Yu’s Web Development Section 12 (166-174) -- 08172022</h4>
+<h4>✨31/100✨ Angela Yu’s Web Development Section 13 (166-174) -- 08172022</h4>
 <ul>
 <li>Javascript object: var randomVariable = { name1: values, name2: values}</li> 
 <li>switch (expression) {
